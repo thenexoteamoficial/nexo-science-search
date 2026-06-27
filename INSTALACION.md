@@ -24,6 +24,8 @@ Esta es una **Progressive Web App (PWA)** que puedes instalar como aplicación r
 
 ---
 
-**Demo en vivo:** https://thenexoteamoficial.github.io/nexo-science-search/
+**Demo Web (PWA):** https://thenexoteamoficial.github.io/nexo-science-search/
+
+**Descargar APK (Android):** [Google Drive](https://drive.google.com/drive/folders/1lW-jw7mz9MaHk-HAiV81uoUrafzNUi3R)
 
 Hecho para que cualquier persona pueda acceder al conocimiento científico sin barreras.
