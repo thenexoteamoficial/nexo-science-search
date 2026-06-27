@@ -11,7 +11,7 @@ Una Progressive Web App (PWA) moderna y elegante para buscar millones de artícu
 - 🔓 Filtro exclusivo de Acceso Abierto (Open Access)
 - 📖 Resúmenes expandibles con un clic
 - 📄 Paginación y ordenamiento
-- 📱 Totalmente responsive + **instalable como app en iOS y Android**
+- 📱 **Instalable como aplicación real** en iOS, Android, Windows, Mac y Linux
 - 🌙 Diseño oscuro premium con acentos en índigo
 - ⚡ Rápido y ligero (todo en un solo archivo HTML)
 
@@ -23,70 +23,86 @@ Una Progressive Web App (PWA) moderna y elegante para buscar millones de artícu
 
 ---
 
-## 📱 Cómo instalar en iOS (iPhone / iPad) — GRATIS
+## 📲 Cómo instalar Nexo Science Search en **cualquier dispositivo** (100% Gratis)
 
-**No necesitas pagar la licencia de Apple Developer ($99/año)** ni publicar nada en la App Store.
+Esta es una **Progressive Web App (PWA)**. 
+Significa que puedes instalarla como una aplicación real en tu pantalla de inicio o escritorio **sin pagar licencias de desarrollador**, sin App Store, sin Google Play y sin publicar nada.
 
-Esta aplicación es una **Progressive Web App (PWA)**. Se instala directamente desde Safari y funciona como una app nativa en tu pantalla de inicio.
+Funciona en **iPhone, iPad, Android, Windows, Mac, Linux y ChromeOS**.
 
-### Pasos fáciles (tarda menos de 30 segundos):
+### 🍎 En iPhone o iPad (iOS / iPadOS)
 
-1. Abre **Safari** en tu iPhone o iPad
-2. Entra a la demo: **https://thenexoteamoficial.github.io/nexo-science-search/**
-3. Toca el botón **Compartir** 
-   (el icono del cuadrado con una flecha hacia arriba ⬆️, normalmente abajo en la barra)
-4. Desplaza hacia abajo y toca **"Agregar a pantalla de inicio"**
-5. (Opcional) Cambia el nombre de la app
-6. Toca **Agregar** en la esquina superior derecha
+1. Abre **Safari**
+2. Entra a: **https://thenexoteamoficial.github.io/nexo-science-search/**
+3. Toca el botón **Compartir** ⬆️ (cuadrado con flecha arriba)
+4. Baja y selecciona **"Agregar a pantalla de inicio"**
+5. Toca **Agregar**
 
-✅ ¡Listo! Ahora tendrás el icono de **Nexo Science Search** en tu pantalla de inicio como cualquier otra aplicación.
+✅ Se instala como app nativa con icono propio y se abre en pantalla completa.
 
-### Qué pasa después de instalarla:
-- Se abre en **pantalla completa** (sin barra de Safari)
-- Tiene su propio **icono** personalizado
-- Funciona como una app nativa
-- La primera vez necesitas internet para buscar
-- Después guarda en caché los resultados recientes
+> La app te muestra automáticamente un banner recordándote cómo instalarla la primera vez.
 
-> 💡 La propia app te muestra un banner automático la primera vez que la abres en iOS para recordarte cómo instalarla.
+### 🤖 En Android
+
+1. Abre **Chrome**
+2. Entra al sitio
+3. Toca los **tres puntos** ⋮ (arriba a la derecha)
+4. Selecciona **"Instalar app"** o **"Agregar a pantalla de inicio"**
+5. Confirma la instalación
+
+✅ Aparecerá en tu pantalla de inicio y en el cajón de aplicaciones.
+
+### 💻 En Computadora (Windows, Mac, Linux, ChromeOS)
+
+**Usando Chrome o Microsoft Edge** (recomendado):
+
+1. Abre el sitio en Chrome o Edge
+2. En la barra de direcciones verás un icono de **instalación** (o ve a los tres puntos ⋮ → **"Instalar Nexo Science Search..."**)
+3. Haz clic en **Instalar**
+4. Confirma
+
+✅ Se creará un acceso directo en tu escritorio, menú inicio o dock. Se abre como una ventana independiente (sin barras del navegador).
+
+**En otros navegadores:**
+Solo abre el enlace. Funciona perfectamente, aunque la experiencia es mejor instalándola como PWA.
 
 ---
 
-## 🛠️ Cómo ejecutar localmente (sin internet)
+## 🛠️ Cómo usar sin instalar (acceso rápido)
 
-1. Descarga o clona este repositorio
-2. Abre el archivo `index.html` con cualquier navegador
-3. ¡Funciona al instante!
+Simplemente entra al enlace en cualquier navegador:
+**https://thenexoteamoficial.github.io/nexo-science-search/**
+
+Funciona de inmediato en móvil o computadora.
 
 ## 📦 Activar GitHub Pages (para que funcione el enlace)
 
 1. Ve a **Settings** del repositorio
-2. En la sección **Pages**:
+2. En **Pages**:
    - Source: **Deploy from a branch**
    - Branch: `main`
    - Folder: `/ (root)`
-3. Guarda los cambios
-4. Espera 1-2 minutos
+3. Guarda
 
 ## 🔧 Tecnologías
 
-- HTML5 + CSS3 + JavaScript puro (sin frameworks)
-- API pública de OpenAlex
-- PWA con manifest generado automáticamente
-- Diseño moderno y accesible
+- HTML5 + CSS3 + JavaScript puro
+- API OpenAlex (gratuita)
+- PWA completa con iconos e instalación
+- 100% open source
 
 ## 📝 Notas importantes
 
-- Totalmente **gratuita** y sin límites de uso
-- No requiere cuenta de Apple Developer
-- No requiere publicación en App Store
-- Funciona en cualquier dispositivo con navegador moderno
-- Código 100% abierto y modificable
+- **Totalmente gratis** para siempre
+- No requiere licencia de Apple, Google ni Microsoft
+- No necesita publicarse en ninguna tienda
+- Funciona sin conexión después de la primera búsqueda (caché)
+- Ideal para estudiantes e investigadores que no pueden pagar licencias
 
 ## 📜 Licencia
 
-MIT License — Puedes usar, modificar y compartir libremente.
+MIT License — Libre de usar, modificar y compartir.
 
 ---
 
-Hecho con ❤️ para estudiantes, investigadores y la comunidad académica hispanohablante que quiere acceso al conocimiento sin barreras.
+Hecho con ❤️ para que cualquier persona en el mundo pueda acceder al conocimiento científico sin barreras económicas ni técnicas.
