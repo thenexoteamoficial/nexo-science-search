@@ -26,9 +26,9 @@ La versión nativa de Android está disponible como archivo `.apk`.
 1. Ve a la sección **Releases** de este repositorio:
    → [Releases](https://github.com/thenexoteamoficial/nexo-science-search/releases)
 2. Descarga el archivo `NexoScienceSearch.apk` de la última versión.
-3. Instálalo en tu Android (activa "Instalar desde fuentes desconocidas" si es necesario).
+3. Instálalo en tu Android.
 
-> ⚠️ Recomendado: Usa la versión PWA (web) si no quieres instalar APK. Ambas son funcionales.
+> 🔒 **Archivo oficialmente autorizado** por **The Nexo Team S.A de C.D**. Ver declaración oficial aquí: [AUTORIZACION.md](AUTORIZACION.md)
 
 ---
 
@@ -62,4 +62,4 @@ MIT
 
 ---
 
-Hecho con ❤️ para la comunidad académica hispanohablante.
+**Este proyecto está oficialmente autorizado por The Nexo Team S.A de C.D**
