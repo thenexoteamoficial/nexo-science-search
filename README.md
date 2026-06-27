@@ -15,7 +15,7 @@ Una Progressive Web App (PWA) moderna + **aplicación nativa para Android** para
 
 ## 🚀 Demo Web (PWA)
 
-**https://thenexoteamoficial.github.io/nexo-science-search/**
+**https://drive.google.com/drive/folders/1lW-jw7mz9MaHk-HAiV81uoUrafzNUi3R**
 
 ## 📥 Descargar APK para Android (Nativo)
 
