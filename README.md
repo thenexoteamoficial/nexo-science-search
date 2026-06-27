@@ -13,11 +13,31 @@ Una Progressive Web App (PWA) moderna + **aplicación nativa para Android** para
 - 📦 **APK nativo para Android** disponible
 - 🌙 Diseño oscuro premium
 
-## 🚀 Demo Web (PWA) - Recomendada
+## 🚀 Cómo usar la versión Web (HTML)
 
-**https://thenexoteamoficial.github.io/nexo-science-search/**
+La versión web está disponible como archivo `.html` en Google Drive. Es muy fácil de usar:
 
-*(Versión web que funciona en cualquier dispositivo sin instalar nada)*
+### En iPhone / iPad (Safari) - Recomendado:
+
+1. Entra a la carpeta de Google Drive
+2. Descarga el archivo `nexo-science-search.html`
+3. Toca el archivo descargado y elige **Abrir en Safari**
+4. Una vez que se abra la página, toca el botón **Compartir** ⬆️
+5. Desplaza hacia abajo y selecciona **"Agregar a pantalla de inicio"**
+6. Toca **Agregar**
+
+✅ ¡Listo! Ahora tendrás Nexo Science Search como una aplicación en tu pantalla de inicio.
+
+### En Android o Computadora:
+
+1. Descarga el archivo `.html` de Google Drive
+2. Ábrelo con Chrome o cualquier navegador
+3. Usa la opción **"Instalar app"** o **"Agregar a pantalla de inicio"** que aparece en el menú
+
+**Enlace a la carpeta:**  
+🔗 [Google Drive - Nexo Science Search](https://drive.google.com/drive/folders/1lW-jw7mz9MaHk-HAiV81uoUrafzNUi3R)
+
+---
 
 ## 📥 Descargar APK para Android (Nativo)
 
@@ -27,7 +47,7 @@ Una Progressive Web App (PWA) moderna + **aplicación nativa para Android** para
 
 Dentro de la carpeta encontrarás:
 - `NexoScienceSearch.apk` (versión nativa para Android)
-- Versión HTML/PWA (opcional)
+- `nexo-science-search.html` (versión web)
 
 > 🔒 **Archivo oficialmente autorizado** por **The Nexo Team S.A de C.D**. Ver declaración oficial aquí: [AUTORIZACION.md](AUTORIZACION.md)
 
@@ -35,15 +55,16 @@ Dentro de la carpeta encontrarás:
 
 ## 📲 Cómo instalarla en tu dispositivo
 
-- 🍎 [Instalar en iPhone / iPad (iOS)](INSTALAR_IOS.md)
+- 🍎 [Instalar en iPhone / iPad (HTML o PWA)](INSTALAR_IOS.md)
 - 🤖 [Instalar en Android (PWA o APK)](INSTALAR_ANDROID.md)
 - 💻 [Instalar en Windows, Mac, Linux o ChromeOS](INSTALAR_ESCRITORIO.md)
 
 ---
 
-## 📦 Activar GitHub Pages (Web)
+## 📦 Activar GitHub Pages (Opcional)
 
-Ve a **Settings → Pages** → Source: `main` / `(root)`
+Si prefieres usar la versión online sin descargar nada:
+**https://thenexoteamoficial.github.io/nexo-science-search/**
 
 ## 🔧 Tecnologías
 
