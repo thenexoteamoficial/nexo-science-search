@@ -1,31 +1,42 @@
 # 🤖 Instalar Nexo Science Search en Android
 
-**No necesitas Google Play ni pagar nada.**
+Tienes **dos opciones**:
 
-Esta es una Progressive Web App (PWA). Se instala fácilmente desde Chrome.
+1. **Versión PWA** (recomendada para la mayoría) – Se instala desde Chrome sin APK.
+2. **APK Nativo** – Aplicación completa instalable como cualquier app de Android.
 
-## Pasos para instalarla:
+---
 
-1. Abre el navegador **Chrome** en tu teléfono Android.
-2. Entra a este enlace:
-   **https://thenexoteamoficial.github.io/nexo-science-search/**
-3. Toca los **tres puntos** ⋮ que están en la esquina superior derecha.
-4. En el menú que aparece, busca y toca:
-   - **"Instalar app"**   o
-   - **"Agregar a pantalla de inicio"**
-5. Confirma tocando **Instalar** o **Agregar**.
+## Opción 1: Versión PWA (más fácil y recomendada)
 
-## ✅ ¡Listo!
+1. Abre **Chrome**
+2. Entra a: **https://thenexoteamoficial.github.io/nexo-science-search/**
+3. Toca los **tres puntos** ⋮ → **"Instalar app"** o **"Agregar a pantalla de inicio"**
+4. Confirma
 
-La aplicación aparecerá:
-- En tu **pantalla de inicio**
-- En el **cajón de aplicaciones**
+✅ Se instala como app y aparece en tu pantalla de inicio.
 
-### Ventajas de instalarla:
-- Se abre en pantalla completa
-- Tiene su propio icono
-- Funciona como una aplicación normal
-- Puedes usarla sin conexión después de la primera búsqueda
+---
+
+## Opción 2: APK Nativo (versión completa)
+
+### Cómo descargar e instalar el APK:
+
+1. Ve a la sección **Releases** del repositorio:
+   → https://github.com/thenexoteamoficial/nexo-science-search/releases
+2. Descarga el archivo **`NexoScienceSearch.apk`** de la última versión.
+3. Abre el archivo descargado.
+4. Si te pide permisos, activa **"Instalar desde fuentes desconocidas"** para este navegador.
+5. Instala la aplicación.
+
+### Ventajas del APK nativo:
+- Mejor integración con Android
+- Posiblemente más rápido
+- Icono y experiencia más "nativa"
+
+### Precaución:
+- Solo descarga el APK desde este repositorio oficial.
+- Después de instalar, puedes desactivar la opción de fuentes desconocidas.
 
 ---
 
