@@ -23,66 +23,33 @@ Una Progressive Web App (PWA) moderna y elegante para buscar millones de artícu
 
 ---
 
-## 📲 Cómo instalar Nexo Science Search en **cualquier dispositivo** (100% Gratis)
+## 📲 Cómo instalarla en tu dispositivo
 
-Esta es una **Progressive Web App (PWA)**. 
-Significa que puedes instalarla como una aplicación real en tu pantalla de inicio o escritorio **sin pagar licencias de desarrollador**, sin App Store, sin Google Play y sin publicar nada.
+Hemos preparado guías detalladas y fáciles de seguir para cada sistema operativo:
 
-Funciona en **iPhone, iPad, Android, Windows, Mac, Linux y ChromeOS**.
+- 🍎 **[Instalar en iPhone / iPad (iOS)](INSTALAR_IOS.md)**
+- 🤖 **[Instalar en Android](INSTALAR_ANDROID.md)**
+- 💻 **[Instalar en Windows, Mac, Linux o ChromeOS](INSTALAR_ESCRITORIO.md)**
 
-### 🍎 En iPhone o iPad (iOS / iPadOS)
-
-1. Abre **Safari**
-2. Entra a: **https://thenexoteamoficial.github.io/nexo-science-search/**
-3. Toca el botón **Compartir** ⬆️ (cuadrado con flecha arriba)
-4. Baja y selecciona **"Agregar a pantalla de inicio"**
-5. Toca **Agregar**
-
-✅ Se instala como app nativa con icono propio y se abre en pantalla completa.
-
-> La app te muestra automáticamente un banner recordándote cómo instalarla la primera vez.
-
-### 🤖 En Android
-
-1. Abre **Chrome**
-2. Entra al sitio
-3. Toca los **tres puntos** ⋮ (arriba a la derecha)
-4. Selecciona **"Instalar app"** o **"Agregar a pantalla de inicio"**
-5. Confirma la instalación
-
-✅ Aparecerá en tu pantalla de inicio y en el cajón de aplicaciones.
-
-### 💻 En Computadora (Windows, Mac, Linux, ChromeOS)
-
-**Usando Chrome o Microsoft Edge** (recomendado):
-
-1. Abre el sitio en Chrome o Edge
-2. En la barra de direcciones verás un icono de **instalación** (o ve a los tres puntos ⋮ → **"Instalar Nexo Science Search..."**)
-3. Haz clic en **Instalar**
-4. Confirma
-
-✅ Se creará un acceso directo en tu escritorio, menú inicio o dock. Se abre como una ventana independiente (sin barras del navegador).
-
-**En otros navegadores:**
-Solo abre el enlace. Funciona perfectamente, aunque la experiencia es mejor instalándola como PWA.
+> Todas las guías están en archivos separados para que sea más fácil encontrar las instrucciones de tu dispositivo.
 
 ---
 
-## 🛠️ Cómo usar sin instalar (acceso rápido)
+## 🛠️ Cómo usar sin instalar
 
 Simplemente entra al enlace en cualquier navegador:
 **https://thenexoteamoficial.github.io/nexo-science-search/**
 
-Funciona de inmediato en móvil o computadora.
+Funciona de inmediato.
 
-## 📦 Activar GitHub Pages (para que funcione el enlace)
+## 📦 Activar GitHub Pages
 
 1. Ve a **Settings** del repositorio
 2. En **Pages**:
    - Source: **Deploy from a branch**
    - Branch: `main`
    - Folder: `/ (root)`
-3. Guarda
+3. Guarda los cambios
 
 ## 🔧 Tecnologías
 
