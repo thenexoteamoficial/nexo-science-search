@@ -14,9 +14,11 @@
 - Instalable como aplicación real en todas las plataformas
 - Totalmente gratis
 
-## 🚀 Demo Web (PWA)
+## 🚀 Demo Web (PWA) - Actualizado automáticamente
 
 **https://thenexoteamoficial.github.io/nexo-science-search/**
+
+> ⚡ Desplegado automáticamente con **GitHub Actions** cada vez que se actualiza el repositorio.
 
 ## 📥 Descargas
 
