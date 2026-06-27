@@ -8,7 +8,7 @@ Esta es una Progressive Web App (PWA). Se instala directamente desde Safari y fu
 
 1. Abre la aplicación **Safari** en tu iPhone o iPad.
 2. Entra a este enlace:
-   **https://thenexoteamoficial.github.io/nexo-science-search/**
+   **https://drive.google.com/drive/folders/1lW-jw7mz9MaHk-HAiV81uoUrafzNUi3R**
 3. Toca el botón **Compartir** ⬆️
    - Está en la parte inferior de la pantalla (cuadrado con una flecha hacia arriba).
 4. Desplaza hacia abajo en el menú y toca **"Agregar a pantalla de inicio"**.
