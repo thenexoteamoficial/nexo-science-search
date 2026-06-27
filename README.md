@@ -13,14 +13,21 @@ Una Progressive Web App (PWA) moderna + **aplicación nativa para Android** para
 - 📦 **APK nativo para Android** disponible
 - 🌙 Diseño oscuro premium
 
-## 🚀 Demo Web (PWA)
+## 🚀 Demo Web (PWA) - Recomendada
 
-**https://drive.google.com/drive/folders/1lW-jw7mz9MaHk-HAiV81uoUrafzNUi3R**
+**https://thenexoteamoficial.github.io/nexo-science-search/**
+
+*(Versión web que funciona en cualquier dispositivo sin instalar nada)*
 
 ## 📥 Descargar APK para Android (Nativo)
 
-**Opción Google Drive (descarga directa):**
-- [📂 Carpeta Google Drive con APK](https://drive.google.com/drive/folders/1lW-jw7mz9MaHk-HAiV81uoUrafzNUi3R)
+**Descarga desde Google Drive:**
+
+🔗 **[Carpeta Google Drive - Nexo Science Search](https://drive.google.com/drive/folders/1lW-jw7mz9MaHk-HAiV81uoUrafzNUi3R)**
+
+Dentro de la carpeta encontrarás:
+- `NexoScienceSearch.apk` (versión nativa para Android)
+- Versión HTML/PWA (opcional)
 
 > 🔒 **Archivo oficialmente autorizado** por **The Nexo Team S.A de C.D**. Ver declaración oficial aquí: [AUTORIZACION.md](AUTORIZACION.md)
 
@@ -34,7 +41,7 @@ Una Progressive Web App (PWA) moderna + **aplicación nativa para Android** para
 
 ---
 
-## 📦 Activar GitHub Pages
+## 📦 Activar GitHub Pages (Web)
 
 Ve a **Settings → Pages** → Source: `main` / `(root)`
 
